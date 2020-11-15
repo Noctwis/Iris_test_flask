@@ -1,0 +1,4 @@
+[highlight_git]
+/.flaskenv
+/__pycache__/
+[/highlight_git]
